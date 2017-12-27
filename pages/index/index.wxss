@@ -1,0 +1,5 @@
+/* pages/index/index.wxss */
+.h1 {
+  font-size: 2em;/*定义字体大小*/
+  text-align: center;/*定义文本居中对齐*/
+}

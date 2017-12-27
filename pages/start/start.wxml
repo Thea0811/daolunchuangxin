@@ -1,0 +1,2 @@
+<button id="btn3" style="opacity: {{opacity}}" 
+disabled="{{disabled}}" bindtap="send">所以我的座位有主了吗</button>

@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/start/start"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffc0cb",
+    "navigationBarTitleText": "你的座位有主了吗",
+    "navigationBarTextStyle": "white"
+  },
+  "debug": true
+}
